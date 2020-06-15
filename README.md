@@ -12,8 +12,13 @@ determined the winner to be Diana DeGette. Total votes casted were 369,711 and o
 went to the winner.
 
 ## Challenge Overview
-
-
-
+Create a list for the counties.
+Create a dictionary where the county is the key and the votes cast for each county in the election are the values.
+Create an empty string that will hold the county name that had the largest turnout.
+Declare a variable that represents the number of votes that a county received. Hint: Inside a for loop, add an if statement to check if the county name has already been recorded. If not, add it to the list of county names.
+Inside the with open() function where you are outputting the file, do the following:
+Create three if statements to print out the voter turnout results similar to the results shown above.
+Add the results to the output file.
+Print the results to the command line.
 
 ## Challenge Summary
